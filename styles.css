@@ -237,7 +237,7 @@
   /* Hover Effect for Skill Box */
   .skill:hover {
     background: #76e5fc;
-    color: #121212;
+    color: #76e5fc;
     border-color: #121212; /* Border will change to black on hover in both modes */
   }
   
@@ -278,7 +278,7 @@
   }
   
   body.light-mode .hero .hero-title {
-    color: #1e1e1e; /* Blue for the name */
+    color:#76e5fc; /* Blue for the name */
   }
   
   body.light-mode .hero .hero-description {
